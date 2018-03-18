@@ -16,6 +16,10 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 Quickly test and serve from local file system: `ng build --base-href=/Users/ ... /Intro-to-Angular-5/dev/dist/`
 
+-or- 
+
+Start a local server `python -m SimpleHTTPServer 8000` to serve application from.
+
 ## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
